@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yashwant257/static/css/main.ff02f4b5.css",
+    "main.js": "/yashwant257/static/js/main.aee6f920.js",
+    "static/js/453.1b6cbde4.chunk.js": "/yashwant257/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/yashwant257/index.html",
+    "main.ff02f4b5.css.map": "/yashwant257/static/css/main.ff02f4b5.css.map",
+    "main.aee6f920.js.map": "/yashwant257/static/js/main.aee6f920.js.map",
+    "453.1b6cbde4.chunk.js.map": "/yashwant257/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.aee6f920.js"
+  ]
+}
